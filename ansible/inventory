@@ -1,0 +1,2 @@
+[mon_groupe]
+monserveur ansible_host=192.168.5.141 ansible_connection=ssh ansible_become_method=su ansible_become_password=root
